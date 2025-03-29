@@ -1,5 +1,5 @@
 # Delhi House Price Prediction
-![](https://m.economictimes.com/thumb/height-450,width-600,imgsize-201544,msid-80555468/1.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFr07PfdrzqRWSX87TiKTL1n-3hy7cRhJ5HQ&s)
 
 ## Project Overview
 The "Delhi House Price Prediction" project is aimed at forecasting the house prices in different localities of Delhi. The main goal is to create a predictive model that can effectively forecast the house prices based on a number of significant features available in the dataset. The dataset, collected from Kaggle, has data regarding factors like house area, number of bedrooms, locality, and others. By examining these attributes, the project seeks to deliver useful insights to prospective buyers and sellers in the real estate industry.
